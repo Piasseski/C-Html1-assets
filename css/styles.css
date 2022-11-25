@@ -1,0 +1,16 @@
+p{
+    color:brown;
+}
+h1{
+    color:green;
+}
+.classe-um{
+background-color: aqua;
+}
+#corAmarelo{
+    color:yellow;
+    text-align:center;
+    /*--text-decoration: line-through; isso é um comentário*/
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:20px;
+}
